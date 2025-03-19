@@ -1,0 +1,184 @@
+{
+  "categoriesProduct": [
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "Default",
+      "ActiveStatus": "1",
+      "id": "1"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "ONIT_FW/ONITSUKA TIGER FOOTWEAR",
+      "ActiveStatus": "1",
+      "id": "2"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "ONIT_AP/ONITSUKA TIGER APPAREL",
+      "ActiveStatus": "1",
+      "id": "3"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "GSEN_SG/GOSEN SPORTING GOODS",
+      "ActiveStatus": "1",
+      "id": "4"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "ONIT_ACC/ONITSUKA TIGER ACCESSORIES",
+      "ActiveStatus": "1",
+      "id": "5"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "ONIT_OTHERS/ONITSUKA TIGER OTHERS",
+      "ActiveStatus": "1",
+      "id": "6"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "ASCS_FW/ASICS FOOTWEAR",
+      "ActiveStatus": "1",
+      "id": "7"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "ASCS_AP/ASICS APPAREL",
+      "ActiveStatus": "1",
+      "id": "8"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "ASCS_AC/ASICS ACCESSORIES",
+      "ActiveStatus": "1",
+      "id": "9"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "ASCS_OTHERS/ASICS OTHERS",
+      "ActiveStatus": "1",
+      "id": "10"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "MLER_SM/MUELLER SPORTS MED",
+      "ActiveStatus": "1",
+      "id": "11"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "DJOY_SM/DONJOY SPORTS MED",
+      "ActiveStatus": "1",
+      "id": "12"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "ACPI_SM/ACPI SPORTS MED",
+      "ActiveStatus": "1",
+      "id": "13"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "DJPF_SM/DONJOY PERFORMANCE SPORTS MED",
+      "ActiveStatus": "1",
+      "id": "14"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "DJAD_SM/DONJOY ADVANTAGE SPORTS MED",
+      "ActiveStatus": "1",
+      "id": "15"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "KMAX_SM/KINDMAX SPORTS MED",
+      "ActiveStatus": "1",
+      "id": "16"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "PCAR_SM/PROCARE SPORTS MED",
+      "ActiveStatus": "1",
+      "id": "17"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "EMPI_SM/ECOMED SPORTS MED",
+      "ActiveStatus": "1",
+      "id": "18"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "TEMX_SM/TEMTEX SPORTS MED",
+      "ActiveStatus": "1",
+      "id": "19"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "BTFY_SG/BUTTERFLY SPORTING GOODS",
+      "ActiveStatus": "1",
+      "id": "20"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "MOLT_SG/MOLTEN SPORTING GOODS",
+      "ActiveStatus": "1",
+      "id": "21"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "MIKA_SG/MIKASA SPORTING GOODS",
+      "ActiveStatus": "1",
+      "id": "22"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "MRTN_SG/MARATHON SPORTING GOODS",
+      "ActiveStatus": "1",
+      "id": "23"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "NTKU_SG/NITTAKU SPORTING GOODS",
+      "ActiveStatus": "1",
+      "id": "24"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "NELC_SG/NELCO SPORTING GOODS",
+      "ActiveStatus": "1",
+      "id": "25"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "FBTH_SG/FBT SPORTING GOODS",
+      "ActiveStatus": "1",
+      "id": "26"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "SENO_SE/SENOH SPORTS EQUIPMENT",
+      "ActiveStatus": "1",
+      "id": "27"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "ACST_SM/AIRCAST SPORTS MED",
+      "ActiveStatus": "1",
+      "id": "28"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "Category18",
+      "ActiveStatus": "1",
+      "id": "29"
+    },
+    {
+      "CommonMstTyp": "Product Category",
+      "ProductCategoryName": "Category181",
+      "ActiveStatus": "1",
+      "id": "30"
+    }
+  ]
+}
