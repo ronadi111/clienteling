@@ -180,5 +180,11 @@
       "ActiveStatus": "1",
       "id": "30"
     }
-  ]
+  ],
+  "caseReasons": [
+      "Reason 1",
+      "Reason 2",
+      "Reason 3",
+      "Others"
+    ]
 }
