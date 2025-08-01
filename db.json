@@ -181,10 +181,12 @@
       "id": "30"
     }
   ],
-  "caseReasons": [
+  "record": {
+    "caseReasons": [
       "Reason 1",
       "Reason 2",
       "Reason 3",
       "Others"
     ]
+  }
 }
