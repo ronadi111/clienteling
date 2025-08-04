@@ -188,5 +188,29 @@
       "Reason 3",
       "Others"
     ]
-  }
+  },
+  "interested_brand": [
+    "Adidas",
+    "Asics",
+    "Nike",
+    "Puma",
+    "Reebok",
+    "Under Armour",
+    "Vans",
+    "Molten",
+    "Yonex",
+    "Onitsuka Tiger"
+  ],
+  "interested_topics": [
+    "Shoes",
+    "Apparel",
+    "Basketball",
+    "Football",
+    "Volleyball",
+    "Table Tennis",
+    "Tennis",
+    "Court",
+    "Running",
+    "Sneakers"
+  ]
 }
